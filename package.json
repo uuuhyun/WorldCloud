@@ -10,7 +10,8 @@
     "@mui/material": "^7.0.2",
     "@mui/styles": "^6.4.8",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.5.0"
   },
   "scripts": {
     "start": "set NODE_ENV=development&&webpack-dev-server",
